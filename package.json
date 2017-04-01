@@ -1,6 +1,6 @@
 {
   "name": "gasoline",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI utility for U.S. state gas prices",
   "main": "gasoline.js",
   "repository": {
